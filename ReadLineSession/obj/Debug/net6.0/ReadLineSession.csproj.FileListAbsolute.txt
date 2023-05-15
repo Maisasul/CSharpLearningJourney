@@ -1,0 +1,15 @@
+C:\Users\Training\Desktop\VS _Csharp\ReadLineSession\bin\Debug\net6.0\ReadLineSession.exe
+C:\Users\Training\Desktop\VS _Csharp\ReadLineSession\bin\Debug\net6.0\ReadLineSession.deps.json
+C:\Users\Training\Desktop\VS _Csharp\ReadLineSession\bin\Debug\net6.0\ReadLineSession.runtimeconfig.json
+C:\Users\Training\Desktop\VS _Csharp\ReadLineSession\bin\Debug\net6.0\ReadLineSession.dll
+C:\Users\Training\Desktop\VS _Csharp\ReadLineSession\bin\Debug\net6.0\ReadLineSession.pdb
+C:\Users\Training\Desktop\VS _Csharp\ReadLineSession\obj\Debug\net6.0\ReadLineSession.csproj.AssemblyReference.cache
+C:\Users\Training\Desktop\VS _Csharp\ReadLineSession\obj\Debug\net6.0\ReadLineSession.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Training\Desktop\VS _Csharp\ReadLineSession\obj\Debug\net6.0\ReadLineSession.AssemblyInfoInputs.cache
+C:\Users\Training\Desktop\VS _Csharp\ReadLineSession\obj\Debug\net6.0\ReadLineSession.AssemblyInfo.cs
+C:\Users\Training\Desktop\VS _Csharp\ReadLineSession\obj\Debug\net6.0\ReadLineSession.csproj.CoreCompileInputs.cache
+C:\Users\Training\Desktop\VS _Csharp\ReadLineSession\obj\Debug\net6.0\ReadLineSession.dll
+C:\Users\Training\Desktop\VS _Csharp\ReadLineSession\obj\Debug\net6.0\refint\ReadLineSession.dll
+C:\Users\Training\Desktop\VS _Csharp\ReadLineSession\obj\Debug\net6.0\ReadLineSession.pdb
+C:\Users\Training\Desktop\VS _Csharp\ReadLineSession\obj\Debug\net6.0\ReadLineSession.genruntimeconfig.cache
+C:\Users\Training\Desktop\VS _Csharp\ReadLineSession\obj\Debug\net6.0\ref\ReadLineSession.dll
