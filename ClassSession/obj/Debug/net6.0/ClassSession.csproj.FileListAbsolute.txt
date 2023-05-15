@@ -1,0 +1,15 @@
+C:\Users\Training\Desktop\VS _Csharp\ClassSession\bin\Debug\net6.0\ClassSession.exe
+C:\Users\Training\Desktop\VS _Csharp\ClassSession\bin\Debug\net6.0\ClassSession.deps.json
+C:\Users\Training\Desktop\VS _Csharp\ClassSession\bin\Debug\net6.0\ClassSession.runtimeconfig.json
+C:\Users\Training\Desktop\VS _Csharp\ClassSession\bin\Debug\net6.0\ClassSession.dll
+C:\Users\Training\Desktop\VS _Csharp\ClassSession\bin\Debug\net6.0\ClassSession.pdb
+C:\Users\Training\Desktop\VS _Csharp\ClassSession\obj\Debug\net6.0\ClassSession.csproj.AssemblyReference.cache
+C:\Users\Training\Desktop\VS _Csharp\ClassSession\obj\Debug\net6.0\ClassSession.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Training\Desktop\VS _Csharp\ClassSession\obj\Debug\net6.0\ClassSession.AssemblyInfoInputs.cache
+C:\Users\Training\Desktop\VS _Csharp\ClassSession\obj\Debug\net6.0\ClassSession.AssemblyInfo.cs
+C:\Users\Training\Desktop\VS _Csharp\ClassSession\obj\Debug\net6.0\ClassSession.csproj.CoreCompileInputs.cache
+C:\Users\Training\Desktop\VS _Csharp\ClassSession\obj\Debug\net6.0\ClassSession.dll
+C:\Users\Training\Desktop\VS _Csharp\ClassSession\obj\Debug\net6.0\refint\ClassSession.dll
+C:\Users\Training\Desktop\VS _Csharp\ClassSession\obj\Debug\net6.0\ClassSession.pdb
+C:\Users\Training\Desktop\VS _Csharp\ClassSession\obj\Debug\net6.0\ClassSession.genruntimeconfig.cache
+C:\Users\Training\Desktop\VS _Csharp\ClassSession\obj\Debug\net6.0\ref\ClassSession.dll
