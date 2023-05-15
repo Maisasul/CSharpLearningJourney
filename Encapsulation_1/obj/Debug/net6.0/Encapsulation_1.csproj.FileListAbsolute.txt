@@ -1,0 +1,30 @@
+C:\Users\Training\Desktop\VS _Csharp\Encapsulation_1\bin\Debug\net6.0\Encapsulation_1.exe
+C:\Users\Training\Desktop\VS _Csharp\Encapsulation_1\bin\Debug\net6.0\Encapsulation_1.deps.json
+C:\Users\Training\Desktop\VS _Csharp\Encapsulation_1\bin\Debug\net6.0\Encapsulation_1.runtimeconfig.json
+C:\Users\Training\Desktop\VS _Csharp\Encapsulation_1\bin\Debug\net6.0\Encapsulation_1.dll
+C:\Users\Training\Desktop\VS _Csharp\Encapsulation_1\bin\Debug\net6.0\Encapsulation_1.pdb
+C:\Users\Training\Desktop\VS _Csharp\Encapsulation_1\obj\Debug\net6.0\Encapsulation_1.csproj.AssemblyReference.cache
+C:\Users\Training\Desktop\VS _Csharp\Encapsulation_1\obj\Debug\net6.0\Encapsulation_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Training\Desktop\VS _Csharp\Encapsulation_1\obj\Debug\net6.0\Encapsulation_1.AssemblyInfoInputs.cache
+C:\Users\Training\Desktop\VS _Csharp\Encapsulation_1\obj\Debug\net6.0\Encapsulation_1.AssemblyInfo.cs
+C:\Users\Training\Desktop\VS _Csharp\Encapsulation_1\obj\Debug\net6.0\Encapsulation_1.csproj.CoreCompileInputs.cache
+C:\Users\Training\Desktop\VS _Csharp\Encapsulation_1\obj\Debug\net6.0\Encapsulation_1.dll
+C:\Users\Training\Desktop\VS _Csharp\Encapsulation_1\obj\Debug\net6.0\refint\Encapsulation_1.dll
+C:\Users\Training\Desktop\VS _Csharp\Encapsulation_1\obj\Debug\net6.0\Encapsulation_1.pdb
+C:\Users\Training\Desktop\VS _Csharp\Encapsulation_1\obj\Debug\net6.0\Encapsulation_1.genruntimeconfig.cache
+C:\Users\Training\Desktop\VS _Csharp\Encapsulation_1\obj\Debug\net6.0\ref\Encapsulation_1.dll
+E:\VS_p\CSharpLearningJourney\Encapsulation_1\bin\Debug\net6.0\Encapsulation_1.exe
+E:\VS_p\CSharpLearningJourney\Encapsulation_1\bin\Debug\net6.0\Encapsulation_1.deps.json
+E:\VS_p\CSharpLearningJourney\Encapsulation_1\bin\Debug\net6.0\Encapsulation_1.runtimeconfig.json
+E:\VS_p\CSharpLearningJourney\Encapsulation_1\bin\Debug\net6.0\Encapsulation_1.dll
+E:\VS_p\CSharpLearningJourney\Encapsulation_1\bin\Debug\net6.0\Encapsulation_1.pdb
+E:\VS_p\CSharpLearningJourney\Encapsulation_1\obj\Debug\net6.0\Encapsulation_1.csproj.AssemblyReference.cache
+E:\VS_p\CSharpLearningJourney\Encapsulation_1\obj\Debug\net6.0\Encapsulation_1.GeneratedMSBuildEditorConfig.editorconfig
+E:\VS_p\CSharpLearningJourney\Encapsulation_1\obj\Debug\net6.0\Encapsulation_1.AssemblyInfoInputs.cache
+E:\VS_p\CSharpLearningJourney\Encapsulation_1\obj\Debug\net6.0\Encapsulation_1.AssemblyInfo.cs
+E:\VS_p\CSharpLearningJourney\Encapsulation_1\obj\Debug\net6.0\Encapsulation_1.csproj.CoreCompileInputs.cache
+E:\VS_p\CSharpLearningJourney\Encapsulation_1\obj\Debug\net6.0\Encapsulation_1.dll
+E:\VS_p\CSharpLearningJourney\Encapsulation_1\obj\Debug\net6.0\refint\Encapsulation_1.dll
+E:\VS_p\CSharpLearningJourney\Encapsulation_1\obj\Debug\net6.0\Encapsulation_1.pdb
+E:\VS_p\CSharpLearningJourney\Encapsulation_1\obj\Debug\net6.0\Encapsulation_1.genruntimeconfig.cache
+E:\VS_p\CSharpLearningJourney\Encapsulation_1\obj\Debug\net6.0\ref\Encapsulation_1.dll
