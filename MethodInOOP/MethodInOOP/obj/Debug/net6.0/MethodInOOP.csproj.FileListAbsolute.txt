@@ -1,0 +1,15 @@
+C:\Users\maisa\Desktop\VS_p\MethodInOOP\MethodInOOP\bin\Debug\net6.0\MethodInOOP.exe
+C:\Users\maisa\Desktop\VS_p\MethodInOOP\MethodInOOP\bin\Debug\net6.0\MethodInOOP.deps.json
+C:\Users\maisa\Desktop\VS_p\MethodInOOP\MethodInOOP\bin\Debug\net6.0\MethodInOOP.runtimeconfig.json
+C:\Users\maisa\Desktop\VS_p\MethodInOOP\MethodInOOP\bin\Debug\net6.0\MethodInOOP.dll
+C:\Users\maisa\Desktop\VS_p\MethodInOOP\MethodInOOP\bin\Debug\net6.0\MethodInOOP.pdb
+C:\Users\maisa\Desktop\VS_p\MethodInOOP\MethodInOOP\obj\Debug\net6.0\MethodInOOP.csproj.AssemblyReference.cache
+C:\Users\maisa\Desktop\VS_p\MethodInOOP\MethodInOOP\obj\Debug\net6.0\MethodInOOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maisa\Desktop\VS_p\MethodInOOP\MethodInOOP\obj\Debug\net6.0\MethodInOOP.AssemblyInfoInputs.cache
+C:\Users\maisa\Desktop\VS_p\MethodInOOP\MethodInOOP\obj\Debug\net6.0\MethodInOOP.AssemblyInfo.cs
+C:\Users\maisa\Desktop\VS_p\MethodInOOP\MethodInOOP\obj\Debug\net6.0\MethodInOOP.csproj.CoreCompileInputs.cache
+C:\Users\maisa\Desktop\VS_p\MethodInOOP\MethodInOOP\obj\Debug\net6.0\MethodInOOP.dll
+C:\Users\maisa\Desktop\VS_p\MethodInOOP\MethodInOOP\obj\Debug\net6.0\refint\MethodInOOP.dll
+C:\Users\maisa\Desktop\VS_p\MethodInOOP\MethodInOOP\obj\Debug\net6.0\MethodInOOP.pdb
+C:\Users\maisa\Desktop\VS_p\MethodInOOP\MethodInOOP\obj\Debug\net6.0\MethodInOOP.genruntimeconfig.cache
+C:\Users\maisa\Desktop\VS_p\MethodInOOP\MethodInOOP\obj\Debug\net6.0\ref\MethodInOOP.dll
