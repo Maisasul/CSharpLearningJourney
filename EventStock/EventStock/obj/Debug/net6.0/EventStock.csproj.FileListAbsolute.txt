@@ -1,0 +1,15 @@
+C:\Users\maisa\Desktop\VS_p\EventStock\EventStock\bin\Debug\net6.0\EventStock.exe
+C:\Users\maisa\Desktop\VS_p\EventStock\EventStock\bin\Debug\net6.0\EventStock.deps.json
+C:\Users\maisa\Desktop\VS_p\EventStock\EventStock\bin\Debug\net6.0\EventStock.runtimeconfig.json
+C:\Users\maisa\Desktop\VS_p\EventStock\EventStock\bin\Debug\net6.0\EventStock.dll
+C:\Users\maisa\Desktop\VS_p\EventStock\EventStock\bin\Debug\net6.0\EventStock.pdb
+C:\Users\maisa\Desktop\VS_p\EventStock\EventStock\obj\Debug\net6.0\EventStock.csproj.AssemblyReference.cache
+C:\Users\maisa\Desktop\VS_p\EventStock\EventStock\obj\Debug\net6.0\EventStock.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maisa\Desktop\VS_p\EventStock\EventStock\obj\Debug\net6.0\EventStock.AssemblyInfoInputs.cache
+C:\Users\maisa\Desktop\VS_p\EventStock\EventStock\obj\Debug\net6.0\EventStock.AssemblyInfo.cs
+C:\Users\maisa\Desktop\VS_p\EventStock\EventStock\obj\Debug\net6.0\EventStock.csproj.CoreCompileInputs.cache
+C:\Users\maisa\Desktop\VS_p\EventStock\EventStock\obj\Debug\net6.0\EventStock.dll
+C:\Users\maisa\Desktop\VS_p\EventStock\EventStock\obj\Debug\net6.0\refint\EventStock.dll
+C:\Users\maisa\Desktop\VS_p\EventStock\EventStock\obj\Debug\net6.0\EventStock.pdb
+C:\Users\maisa\Desktop\VS_p\EventStock\EventStock\obj\Debug\net6.0\EventStock.genruntimeconfig.cache
+C:\Users\maisa\Desktop\VS_p\EventStock\EventStock\obj\Debug\net6.0\ref\EventStock.dll
