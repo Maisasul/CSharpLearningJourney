@@ -1,0 +1,15 @@
+C:\Users\maisa\Desktop\VS_p\ClinicSystem\ClinicSystem\obj\Debug\net6.0\ClinicSystem.csproj.AssemblyReference.cache
+C:\Users\maisa\Desktop\VS_p\ClinicSystem\ClinicSystem\obj\Debug\net6.0\ClinicSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maisa\Desktop\VS_p\ClinicSystem\ClinicSystem\obj\Debug\net6.0\ClinicSystem.AssemblyInfoInputs.cache
+C:\Users\maisa\Desktop\VS_p\ClinicSystem\ClinicSystem\obj\Debug\net6.0\ClinicSystem.AssemblyInfo.cs
+C:\Users\maisa\Desktop\VS_p\ClinicSystem\ClinicSystem\obj\Debug\net6.0\ClinicSystem.csproj.CoreCompileInputs.cache
+C:\Users\maisa\Desktop\VS_p\ClinicSystem\ClinicSystem\bin\Debug\net6.0\ClinicSystem.exe
+C:\Users\maisa\Desktop\VS_p\ClinicSystem\ClinicSystem\bin\Debug\net6.0\ClinicSystem.deps.json
+C:\Users\maisa\Desktop\VS_p\ClinicSystem\ClinicSystem\bin\Debug\net6.0\ClinicSystem.runtimeconfig.json
+C:\Users\maisa\Desktop\VS_p\ClinicSystem\ClinicSystem\bin\Debug\net6.0\ClinicSystem.dll
+C:\Users\maisa\Desktop\VS_p\ClinicSystem\ClinicSystem\bin\Debug\net6.0\ClinicSystem.pdb
+C:\Users\maisa\Desktop\VS_p\ClinicSystem\ClinicSystem\obj\Debug\net6.0\ClinicSystem.dll
+C:\Users\maisa\Desktop\VS_p\ClinicSystem\ClinicSystem\obj\Debug\net6.0\refint\ClinicSystem.dll
+C:\Users\maisa\Desktop\VS_p\ClinicSystem\ClinicSystem\obj\Debug\net6.0\ClinicSystem.pdb
+C:\Users\maisa\Desktop\VS_p\ClinicSystem\ClinicSystem\obj\Debug\net6.0\ClinicSystem.genruntimeconfig.cache
+C:\Users\maisa\Desktop\VS_p\ClinicSystem\ClinicSystem\obj\Debug\net6.0\ref\ClinicSystem.dll
