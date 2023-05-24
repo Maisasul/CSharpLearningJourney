@@ -51,7 +51,28 @@ namespace OperatorOverLoading
         {
             if (a.waight == b.waight)
                 return a;
-            return false;
+            return b;
+        }
+
+        public static Box operator !=(Box a, Box b)
+        {
+            if(a.waight != b.waight)
+                return a;
+            return b;
+        }
+
+        public static Box operator <=(Box a, Box b)
+        {
+            if(a.waight <= b.waight)
+                return a;
+            return b;
+        }
+
+        public static Box operator >=(Box a, Box b)
+        {
+            if(a.waight >= b.waight)
+                return a;
+            return b;
         }
     }
 
