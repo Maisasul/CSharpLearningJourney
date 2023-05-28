@@ -1,0 +1,15 @@
+C:\Users\maisa\Desktop\VS_p\LinkedListGeneric\LinkedListGeneric\bin\Debug\net6.0\LinkedListGeneric.exe
+C:\Users\maisa\Desktop\VS_p\LinkedListGeneric\LinkedListGeneric\bin\Debug\net6.0\LinkedListGeneric.deps.json
+C:\Users\maisa\Desktop\VS_p\LinkedListGeneric\LinkedListGeneric\bin\Debug\net6.0\LinkedListGeneric.runtimeconfig.json
+C:\Users\maisa\Desktop\VS_p\LinkedListGeneric\LinkedListGeneric\bin\Debug\net6.0\LinkedListGeneric.dll
+C:\Users\maisa\Desktop\VS_p\LinkedListGeneric\LinkedListGeneric\bin\Debug\net6.0\LinkedListGeneric.pdb
+C:\Users\maisa\Desktop\VS_p\LinkedListGeneric\LinkedListGeneric\obj\Debug\net6.0\LinkedListGeneric.csproj.AssemblyReference.cache
+C:\Users\maisa\Desktop\VS_p\LinkedListGeneric\LinkedListGeneric\obj\Debug\net6.0\LinkedListGeneric.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maisa\Desktop\VS_p\LinkedListGeneric\LinkedListGeneric\obj\Debug\net6.0\LinkedListGeneric.AssemblyInfoInputs.cache
+C:\Users\maisa\Desktop\VS_p\LinkedListGeneric\LinkedListGeneric\obj\Debug\net6.0\LinkedListGeneric.AssemblyInfo.cs
+C:\Users\maisa\Desktop\VS_p\LinkedListGeneric\LinkedListGeneric\obj\Debug\net6.0\LinkedListGeneric.csproj.CoreCompileInputs.cache
+C:\Users\maisa\Desktop\VS_p\LinkedListGeneric\LinkedListGeneric\obj\Debug\net6.0\LinkedListGeneric.dll
+C:\Users\maisa\Desktop\VS_p\LinkedListGeneric\LinkedListGeneric\obj\Debug\net6.0\refint\LinkedListGeneric.dll
+C:\Users\maisa\Desktop\VS_p\LinkedListGeneric\LinkedListGeneric\obj\Debug\net6.0\LinkedListGeneric.pdb
+C:\Users\maisa\Desktop\VS_p\LinkedListGeneric\LinkedListGeneric\obj\Debug\net6.0\LinkedListGeneric.genruntimeconfig.cache
+C:\Users\maisa\Desktop\VS_p\LinkedListGeneric\LinkedListGeneric\obj\Debug\net6.0\ref\LinkedListGeneric.dll
